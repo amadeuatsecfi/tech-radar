@@ -1,10 +1,11 @@
 name,ring,quadrant,isNew,description
-Python,languages-and-frameworks,adopt,FALSE,
-Django,languages-and-frameworks,adopt,FALSE,
-fastapi,languages-and-frameworks,trial,FALSE,
-celery,languages-and-frameworks,adopt,FALSE,
-k8,Platforms,adopt,FALSE,
-GraphQL,languages-and-frameworks,adopt,FALSE,
-Postgres,Tools,adopt,FALSE,
-Serverless,Tools,trial,FALSE,
-AWS Step Functions,Platforms,assess,FALSE,
+Python,languages-and-frameworks,adopt,FALSE,The main language we use for all of our backend services
+Django,languages-and-frameworks,adopt,FALSE,The default Python Framework we use for our backend services
+fastapi,languages-and-frameworks,trial,FALSE,The REST framework we are going to adopt for new backend services in the new stack
+celery,languages-and-frameworks,adopt,FALSE,For all of our async queue processing needs
+k8,Platforms,adopt,FALSE,<TBC>
+GraphQL,languages-and-frameworks,adopt,FALSE,<TBC>
+Postgres,Tools,adopt,FALSE,Our relational database system
+Serverless,Tools,trial,FALSE,We do use for some Lambda execution for a few use cases
+AWS Step Functions,Platforms,assess,FALSE,Still to be considered for certain workflow integration cases
+Django Rest Framework,languages-and-frameworks,adopt,FALSE,The default REST framework bundled with Django
