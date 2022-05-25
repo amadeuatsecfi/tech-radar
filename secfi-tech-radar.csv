@@ -7,5 +7,5 @@ k8,Platforms,adopt,FALSE,<TBC>
 GraphQL,languages-and-frameworks,adopt,FALSE,<TBC>
 Postgres,Tools,adopt,FALSE,Our relational database system
 Serverless,Tools,trial,FALSE,We do use for some Lambda execution for a few use cases
-AWS Step Functions,Platforms,assess,FALSE,Still to be considered for certain workflow integration cases
+AWS Step Functions,Platforms,hold,FALSE,Still to be considered for certain workflow integration cases
 Django Rest Framework,languages-and-frameworks,adopt,FALSE,The default REST framework bundled with Django
