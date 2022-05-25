@@ -1,0 +1,10 @@
+name,ring,quadrant,isNew,description
+Python,languages-and-frameworks,adopt,FALSE,
+Django,languages-and-frameworks,adopt,FALSE,
+fastapi,languages-and-frameworks,trial,FALSE,
+celery,languages-and-frameworks,adopt,FALSE,
+k8,Platforms,adopt,FALSE,
+GraphQL,languages-and-frameworks,adopt,FALSE,
+Postgres,Tools,adopt,FALSE,
+Serverless,Tools,trial,FALSE,
+AWS Step Functions,Platforms,assess,FALSE,
